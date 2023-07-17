@@ -1,0 +1,15 @@
+/Users/marinagrecko/Desktop/lesson7/les9/bin/Debug/net7.0/les9
+/Users/marinagrecko/Desktop/lesson7/les9/bin/Debug/net7.0/les9.deps.json
+/Users/marinagrecko/Desktop/lesson7/les9/bin/Debug/net7.0/les9.runtimeconfig.json
+/Users/marinagrecko/Desktop/lesson7/les9/bin/Debug/net7.0/les9.dll
+/Users/marinagrecko/Desktop/lesson7/les9/bin/Debug/net7.0/les9.pdb
+/Users/marinagrecko/Desktop/lesson7/les9/obj/Debug/net7.0/les9.csproj.AssemblyReference.cache
+/Users/marinagrecko/Desktop/lesson7/les9/obj/Debug/net7.0/les9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinagrecko/Desktop/lesson7/les9/obj/Debug/net7.0/les9.AssemblyInfoInputs.cache
+/Users/marinagrecko/Desktop/lesson7/les9/obj/Debug/net7.0/les9.AssemblyInfo.cs
+/Users/marinagrecko/Desktop/lesson7/les9/obj/Debug/net7.0/les9.csproj.CoreCompileInputs.cache
+/Users/marinagrecko/Desktop/lesson7/les9/obj/Debug/net7.0/les9.dll
+/Users/marinagrecko/Desktop/lesson7/les9/obj/Debug/net7.0/refint/les9.dll
+/Users/marinagrecko/Desktop/lesson7/les9/obj/Debug/net7.0/les9.pdb
+/Users/marinagrecko/Desktop/lesson7/les9/obj/Debug/net7.0/les9.genruntimeconfig.cache
+/Users/marinagrecko/Desktop/lesson7/les9/obj/Debug/net7.0/ref/les9.dll

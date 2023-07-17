@@ -1,0 +1,15 @@
+/Users/marinagrecko/Desktop/lesson7/les8/obj/Debug/net7.0/les8.csproj.AssemblyReference.cache
+/Users/marinagrecko/Desktop/lesson7/les8/obj/Debug/net7.0/les8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinagrecko/Desktop/lesson7/les8/obj/Debug/net7.0/les8.AssemblyInfoInputs.cache
+/Users/marinagrecko/Desktop/lesson7/les8/obj/Debug/net7.0/les8.AssemblyInfo.cs
+/Users/marinagrecko/Desktop/lesson7/les8/obj/Debug/net7.0/les8.csproj.CoreCompileInputs.cache
+/Users/marinagrecko/Desktop/lesson7/les8/bin/Debug/net7.0/les8
+/Users/marinagrecko/Desktop/lesson7/les8/bin/Debug/net7.0/les8.deps.json
+/Users/marinagrecko/Desktop/lesson7/les8/bin/Debug/net7.0/les8.runtimeconfig.json
+/Users/marinagrecko/Desktop/lesson7/les8/bin/Debug/net7.0/les8.dll
+/Users/marinagrecko/Desktop/lesson7/les8/bin/Debug/net7.0/les8.pdb
+/Users/marinagrecko/Desktop/lesson7/les8/obj/Debug/net7.0/les8.dll
+/Users/marinagrecko/Desktop/lesson7/les8/obj/Debug/net7.0/refint/les8.dll
+/Users/marinagrecko/Desktop/lesson7/les8/obj/Debug/net7.0/les8.pdb
+/Users/marinagrecko/Desktop/lesson7/les8/obj/Debug/net7.0/les8.genruntimeconfig.cache
+/Users/marinagrecko/Desktop/lesson7/les8/obj/Debug/net7.0/ref/les8.dll
